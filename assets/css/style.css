@@ -3,6 +3,8 @@
     padding: 0;
     margin: 0;
 }
+/*header styling */
+/* Create header classes for stylized company logo on top left of page*/
 
 .header {
     padding: 20px;
@@ -20,6 +22,7 @@
     color: #d9dcd6;
 }
 
+/* create header classes for styling nav pane on top right of page */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,19 +40,23 @@
     margin-left: 25px;
 }
 
+/*body stying */
+/* define body background color */
 body {
     background-color: #d9dcd6;
 }
 
+/*define links color & remove text deco */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*define paragraph text size */
 p {
     font-size: 16px;
 }
 
+/*styling for hero image in body */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +66,7 @@ p {
     background-position: center;
 }
 
+/*define alternate floating for images in 3 body articles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +77,14 @@ p {
     margin-left: 25px;
 }
 
+/*define inline block and size for body content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*define block size and styling for article text in the body */
 .part-1 {
     margin-bottom: 20px;
     padding: 50px;
@@ -83,16 +93,18 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*define proper height for article images in the body */
 .part-1 img {
     max-height: 200px;
 }
 
+/*define positioning and font size for h2 headers in body articles */
 .part-1 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*aside styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +132,7 @@ p {
     max-width: 150px;
 }
 
+/*foot styling */
 footer {
     padding: 30px;
     clear: both;
