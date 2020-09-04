@@ -1,6 +1,6 @@
 # Horiseon Website Code Refactor
 
-Even though the actual visual layout remains completely unchanged, both the index.html and style.css files have been refactored. Updates includes using proper HTML elements for accessibility, re-organized and logical layout for readbility that is inline with proper HTML page structure, added commenting, and consolidation of re-used class properties in the style sheet.
+The coding behind this website was not properly formatted to meet HTML accessibility standards. Even though the actual visual layout remains completely unchanged, both the index.html and style.css files have been refactored. Updates includes a descriptive title, alt attributes for images, using semantic HTML elements for accessibility, re-organized and logical layout for readbility that is inline with proper HTML page structure, added commenting, and consolidation of re-used class properties in the style sheet.
 
 * [Installation](#installation)
 * [Usage](#usage)
