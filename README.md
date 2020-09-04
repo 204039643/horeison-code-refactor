@@ -17,6 +17,7 @@ Clone my Github reposity to your local machine: https://github.com/204039643/hor
 
 ## Credits
 W3C Schools HTML semantics: https://www.w3schools.com/html/html5_semantic_elements.asp
+
 W3C Schools HTML accessibility: https://www.w3schools.com/html/html_accessibility.asp
 
 ## License
