@@ -2,20 +2,25 @@
 
 The coding behind this website was not properly formatted to meet HTML accessibility standards. Even though the actual visual layout remains completely unchanged, both the index.html and style.css files have been refactored. Updates includes a descriptive title, alt attributes for images, using semantic HTML elements for accessibility, re-organized and logical layout for readbility that is inline with proper HTML page structure, added commenting, and consolidation of re-used class properties in the style sheet.
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+![screenshotofmywebpage](./assets/images/mypagesscreenshot1.png)
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
+
 Clone my Github reposity to your local machine: https://github.com/204039643/horeison-code-refactor
 
 ## Usage
+
 1. Open local repository in VS code (code .).
 2. Navigate to either the index.html or style.css files in the editor to view.
 3. To view in your web browser, with the index.html file selecetd in the editor, right-click and select 'Open in default browser'.
 
 ## Credits
+
 W3C Schools HTML semantics: https://www.w3schools.com/html/html5_semantic_elements.asp
 
 W3C Schools HTML accessibility: https://www.w3schools.com/html/html_accessibility.asp
